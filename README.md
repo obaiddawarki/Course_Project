@@ -92,7 +92,7 @@ The data description for the csv files is shown below:
 
 ## Visualization
 
-### Before_and_after_intervention_and_how_it_project_a_counterfactual
+### Before_and_after_intervention_and_how_it_project_a_counterfactual for Franklin in Ohio
 ![Before_and_after_intervention_and_how_it_project_a _counterfactual.png](https://github.com/obaiddawarki/Course_Project/blob/main/plots/OLS_counterfactual.png)
 
 ### Autocorrelation
@@ -101,7 +101,7 @@ The data description for the csv files is shown below:
 ### Partial Autocorrelation
 ![Partial Autocorrelation](plots/partial_autocorrelation.png)
 
-### ARIMA - Before_and_after_intervention_and_how_it_project_a _counterfactual
+### ARIMA - Before_and_after_intervention_and_how_it_project_a _counterfactual for Franklin in Ohio
 ![ARIMA - Before_and_after_intervention_and_how_it_project_a _counterfactual](plots/ARIMA.png)
 
 ## License
