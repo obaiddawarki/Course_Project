@@ -47,7 +47,7 @@ The directory structure for the repository has been shown below in the form of a
 
 ## Data Description
 The data description for the csv files is shown below:
-1. # John Hopkins University COVID-19 data - RAW_us_confirmed_cases.csv
+1. #### John Hopkins University COVID-19 data - RAW_us_confirmed_cases.csv
 
 | Column                    | Description                                                                        |
 | ------------------------- | -----------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@ The data description for the csv files is shown below:
 | `long`                     | longitude of the country  in state          |
 | `date`                     | Dates in dd-mm--yy format                     |
 
-2. # masking mandates by county - mask_use_by_county.csv
+2. #### masking mandates by county - mask_use_by_county.csv
 
 | Column                    | Description                                                                        |
 | ------------------------- | -----------------------------------------------------------------------------------|
@@ -76,7 +76,7 @@ The data description for the csv files is shown below:
 | `URL`                           | UID for country                                                |
 | `Citation`                     | ISO 3166-1 alpha-2 codes are two-letter country codes  |
 
-3.  # mask compliance survey - US_State_and_Territorial_Public_Mask_Mandates_by_County_by_Day
+3. #### mask compliance survey - US_State_and_Territorial_Public_Mask_Mandates_by_County_by_Day
 
 | Column                    | Description                                                                        |
 | ------------------------- | -----------------------------------------------------------------------------------|
