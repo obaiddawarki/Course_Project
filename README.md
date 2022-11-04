@@ -92,12 +92,16 @@ The data description for the csv files is shown below:
 
 ## Visualization
 
+### Before_and_after_intervention_and_how_it_project_a_counterfactual
 ![Before_and_after_intervention_and_how_it_project_a _counterfactual.png](https://github.com/obaiddawarki/Course_Project/blob/main/plots/OLS_counterfactual.png)
 
+### Autocorrelation
 ![Autocorrelation](plots/autocorrelation.png)
 
+### Partial Autocorrelation
 ![Partial Autocorrelation](plots/partial_autocorrelation.png)
 
+### ARIMA - Before_and_after_intervention_and_how_it_project_a _counterfactual
 ![ARIMA - Before_and_after_intervention_and_how_it_project_a _counterfactual](plots/ARIMA.png)
 
 ## License
