@@ -1,4 +1,4 @@
-# Human Centered Data Science - Homework_4
+# Human Centered Data Science - Part 1 - Collective Analysis
 
 #About the Project
 The repository contains the code and the data to reproduce the results for the analysis of the COVID-19 cases at Frankilin in
