@@ -91,7 +91,7 @@ The data description for the csv files is shown below:
 
 ## Visualization
 
-![Before_and_after_intervention_and_how_it_project_a _counterfactual.png](plots/OLS_counterfactual.png.png)
+![Before_and_after_intervention_and_how_it_project_a _counterfactual.png](https://github.com/obaiddawarki/Course_Project/blob/main/plots/OLS_counterfactual.png)
 
 ![Autocorrelation](plots/autocorrelation.png)
 
