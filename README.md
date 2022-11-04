@@ -28,9 +28,10 @@ The directory structure for the repository has been shown below in the form of a
 │ 
 ├── plots
 │   ├── autocorrelation.png
-│   ├── counterfactual.png
+│   ├── OLS_counterfactual.png
 │   └── partial_autocorrelation.png
 │   └── qqplot_ols_and_ARIMA.png
+│   └── ARIMA.png
 │ 
 ├── src
 │   └── Common_Analysis.ipynb
