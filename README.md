@@ -90,7 +90,7 @@ The data description for the csv files is shown below:
 
 
 #### Note: 
-I have ignored the file csv US_State_and_Territorial_Public_Mask_Mandates_by_County_by_Day in my repository because of huge size issues. The same could be downloaded for reproducibilty from [masking mandates by county](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
+I have ignored the file csv US_State_and_Territorial_Public_Mask_Mandates_by_County_by_Day in my repository because of size issues. The same could be downloaded for reproducibilty for this assignment from [masking mandates by county](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
 
 ## Visualization
 
